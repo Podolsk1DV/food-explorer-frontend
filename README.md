@@ -19,7 +19,7 @@ A aplicação conta com as seguintes páginas:
 
 ## Screenshots
 
-![Exemplo em uso](https://imgur.com/RmMAbRM)
+![Exemplo em uso](https://i.imgur.com/RmMAbRM.png)
 
 ## 🛠️ Funcionalidades
 A aplicação apresenta as seguintes funcionalidades:
